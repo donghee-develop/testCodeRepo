@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Cal test" tests="1" skipped="0" failures="0" errors="0" timestamp="2025-04-07T07:17:39.878Z" hostname="gimdonghuiui-noteubug.local" time="0.425">
+  <properties/>
+  <testcase name="더하기" classname="kio.test.CalTest" time="0.425"/>
+  <system-out><![CDATA[16:17:39.269 [Test worker] INFO org.springframework.test.context.support.AnnotationConfigContextLoaderUtils -- Could not detect default configuration classes for test class [kio.test.CalTest]: CalTest does not declare any static, non-private, non-final, nested classes annotated with @Configuration.
+16:17:39.327 [Test worker] INFO org.springframework.boot.test.context.SpringBootTestContextBootstrapper -- Found @SpringBootConfiguration kio.test.TestCodeApplication for test class kio.test.CalTest
+
+  .   ____          _            __ _ _
+ /\\ / ___'_ __ _ _(_)_ __  __ _ \ \ \ \
+( ( )\___ | '_ | '_| | '_ \/ _` | \ \ \ \
+ \\/  ___)| |_)| | | | | || (_| |  ) ) ) )
+  '  |____| .__|_| |_|_| |_\__, | / / / /
+ =========|_|==============|___/=/_/_/_/
+
+ :: Spring Boot ::                (v3.4.4)
+
+2025-04-07T16:17:39.499+09:00  INFO 47829 --- [test-code] [    Test worker] kio.test.CalTest                         : Starting CalTest using Java 17.0.9 with PID 47829 (started by donghui in /Users/donghui/Desktop/StudyFolder/개인프로젝트/test-code)
+2025-04-07T16:17:39.499+09:00  INFO 47829 --- [test-code] [    Test worker] kio.test.CalTest                         : No active profile set, falling back to 1 default profile: "default"
+2025-04-07T16:17:39.870+09:00  INFO 47829 --- [test-code] [    Test worker] kio.test.CalTest                         : Started CalTest in 0.477 seconds (process running for 1.018)
+]]>&#x1f9f9;<![CDATA[ 테스트 끝난 후 1회 실행
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
